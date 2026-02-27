@@ -1,0 +1,6 @@
+model_id,model_name,model_type,algorithm,department,owner,created_date,last_audit,next_audit,status,risk_level,pii_involved,rbi_applicable
+MDL001,Loan Approval Model v2,Classification,XGBoost,Retail Lending,Rahul Sharma,2024-01-15,2024-10-01,2025-04-01,Production,High,Yes,Yes
+MDL002,Fraud Detection Model v3,Classification,Random Forest,Risk Management,Priya Singh,2023-06-20,2024-11-15,2025-05-15,Production,Medium,Yes,Yes
+MDL003,Credit Score Model v1,Regression,Gradient Boosting,Credit Risk,Amit Kumar,2024-03-10,2024-12-01,2025-06-01,Production,High,Yes,Yes
+MDL004,Customer Churn Model v2,Classification,Logistic Regression,Marketing,Sneha Patel,2023-11-05,2025-01-10,2025-07-10,Staging,Low,No,No
+MDL005,EMI Default Predictor v1,Classification,Neural Network,Collections,Rajesh Gupta,2024-07-22,2024-09-15,2025-03-15,Production,High,Yes,Yes

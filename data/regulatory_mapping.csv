@@ -1,0 +1,7 @@
+regulation,requirement,control,model_id,status,gap
+RBI Digital Lending Guidelines 2022,Algorithmic decisions must be explainable,SHAP Explainability Report,MDL001,Implemented,None
+RBI Digital Lending Guidelines 2022,Fair lending - no discriminatory outputs,Bias Detection - Disparate Impact Analysis,MDL001,Gap Found,Gender bias detected
+DPDP Act 2023,PII must not be used without consent,PII Scanner on training datasets,MDL001,Implemented,None
+DPDP Act 2023,Data minimization,Feature review and data audit,MDL003,In Review,Redundant features identified
+IT Act 2000 - Section 43A,Reasonable security for sensitive data,CIA Triad Controls,MDL002,Implemented,None
+RBI IT Framework for NBFCs 2023,Model risk governance and periodic review,Annual Operating Plan - Quarterly Reviews,ALL,Implemented,None

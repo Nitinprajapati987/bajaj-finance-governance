@@ -1,0 +1,7 @@
+review_id,model_id,model_name,review_type,planned_date,completed_date,status,reviewer,findings,severity,quarter,remarks
+REV001,MDL001,Loan Approval Model v2,Bias Audit,2025-01-15,2025-01-18,Completed,Rahul Sharma,2,High,Q1,Gender bias detected
+REV002,MDL001,Loan Approval Model v2,Security Audit,2025-02-10,2025-02-12,Completed,Priya Singh,1,Medium,Q1,Access control improved
+REV003,MDL002,Fraud Detection Model v3,Full Compliance Review,2025-02-20,,In Progress,Amit Kumar,0,NA,Q1,Review ongoing
+REV004,MDL003,Credit Score Model v1,PII Audit,2025-03-05,,Planned,Sneha Patel,0,NA,Q1,Scheduled
+REV005,MDL004,Customer Churn Model v2,Bias Audit,2025-03-20,,Planned,Rahul Sharma,0,NA,Q1,Scheduled
+REV006,MDL005,EMI Default Predictor v1,CIA Controls Review,2025-04-10,,Planned,Amit Kumar,0,NA,Q2,Scheduled
